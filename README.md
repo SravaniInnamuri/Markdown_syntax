@@ -15,4 +15,6 @@
 
     ***Combined Emphasis***
 ### Strikethrough
-    ~Strike this~
+    ---Strike this---
+# List
+5. Ordered List
