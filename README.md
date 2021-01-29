@@ -7,6 +7,12 @@
 ##### H5
 ###### H6
 
-34256654765
-4537688o75434567
-3456789
+# Emphasis
+### Italics
+*Asterics* or _underscores_
+### BOLd
+    **Double Asterics** or __Double Underscores__
+
+    ***Combined Emphasis***
+### Strikethrough
+    ~Strike this~
